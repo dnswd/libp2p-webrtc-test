@@ -15,7 +15,9 @@
     "@libp2p/mplex": "^7.0.0",
     "@libp2p/peer-id-factory": "^2.0.1",
     "@libp2p/webrtc-direct": "^5.0.0",
+    "it-pipe": "^2.0.5",
     "libp2p": "^0.42.2",
+    "uint8arrays": "^4.0.3",
     "wrtc": "^0.4.7"
   },
   "devDependencies": {
