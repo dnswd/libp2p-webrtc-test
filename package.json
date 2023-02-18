@@ -1,0 +1,25 @@
+{
+  "name": "libp2p-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "a": "node a.js",
+    "b": "node b.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@chainsafe/libp2p-noise": "^11.0.0",
+    "@libp2p/bootstrap": "^5.0.2",
+    "@libp2p/mplex": "^7.0.0",
+    "@libp2p/peer-id-factory": "^2.0.1",
+    "@libp2p/webrtc-direct": "^5.0.0",
+    "libp2p": "^0.42.2",
+    "wrtc": "^0.4.7"
+  },
+  "devDependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.8",
+    "vite": "^2.8.6"
+  }
+}
